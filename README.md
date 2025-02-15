@@ -28,4 +28,4 @@ The project uses a wide range of SQL constructs to address various querying need
  Joining Tables: JOIN.
  Grouping Data: GROUP BY.
  Window Functions: ROW_NUMBER.
- Subqueries and Derived Tables: WITH (for CTEs).
+ Subqueries and Derived Tables: WITH (for CTEs)
